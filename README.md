@@ -4,6 +4,8 @@
 ![Deployment](https://img.shields.io/badge/Status-Operational-emerald?style=for-the-badge)
 ![Innovation](https://img.shields.io/badge/Engine-Neural--Analytics-primary?style=for-the-badge)
 
+**Live Deployment:** [urbanguard-ai.vercel.app](https://urbanguard-ai.vercel.app/)
+
 Formed at the intersection of innovation and urban resilience, **UrbanGuard AI** is a cutting-edge infrastructure auditing platform designed to safeguard the critical assets that power modern metropolises. Built by **Team Smart Nova**, this platform leverages real-time diagnostics and neural analytics to provide a centralized command HUD for urban infrastructure health.
 
 ---
